@@ -36,8 +36,8 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
                 <data
-                    android:host="com.azuresamples.msalandroidkotlinapp"
-                    android:path="/1wIqXSqBj7w+h11ZifsnqwgyKrY="
+                    android:host="com.dzcard.proxipass"
+                    android:path="/ga0RGNYHvNM5d0SLGQfpQWAPGJ8="
                     android:scheme="msauth" />
             </intent-filter>
         </activity>
